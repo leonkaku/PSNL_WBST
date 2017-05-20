@@ -8,3 +8,8 @@ CREATE_TIME DATE COMMENT '创建时间',
 UPDATE_TIME DATE COMMENT '更新时间'
 );
 commit;
+
+
+alter table  wbst_user_login modify column ID_WBST_USER_LOGIN varchar(36);
+
+commit;

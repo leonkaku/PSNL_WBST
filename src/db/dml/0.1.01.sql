@@ -1,0 +1,2 @@
+insert into wbst_user_login(ID_WBST_USER_LOGIN,LOGIN_NAME,PASSWORD,CREATE_TIME,UPDATE_TIME)values(uuid(),'leonkaku','leonkaku443185842',NOW(),NOW());
+insert into wbst_user_login(ID_WBST_USER_LOGIN,LOGIN_NAME,PASSWORD,CREATE_TIME,UPDATE_TIME)values(uuid(),'laulaulau','LIUHANGyu1997',NOW(),NOW());
